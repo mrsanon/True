@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Lord-official",
+  "author": "mrsanon",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lord-official/LoRD-MD.git"
+    "url": "git+https://github.com/mrsanon/LoRD-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Lord-official/LoRD-MD/issues"
+    "url": "https://github.com/mrsanon/LoRD-MD/issues"
   },
-  "homepage": "https://github.com/Lord-official/LoRD-MD#readme"
+  "homepage": "https://github.com/mrsanon/LoRD-MD#readme"
 }
