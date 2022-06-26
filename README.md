@@ -20,7 +20,7 @@
 
 - To use This bot you need fork this first <br>
 
-[Click Here To Fork](https://github.com/Lord-official/LoRD-MD/fork)
+[Click Here To Fork](https://github.com/mrsanon/LoRD-MD/fork)
 
 ## `⨷ SCAN QR`
 
@@ -32,7 +32,7 @@
 
 👉 <b>Copy this link and paste it on your browser Change Lord-official to your github username<b> <br><br>
 ```
-  https://heroku.com/deploy?template=https://github.com/Lord-official/LoRD-MD
+  https://heroku.com/deploy?template=https://github.com/mrsanon/LoRD-MD
 ```
 <br>
 
