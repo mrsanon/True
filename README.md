@@ -22,9 +22,13 @@
 
 [Click Here To Fork](https://github.com/mrsanon/LoRD-MD/fork)
 
+
 ## `⨷ SCAN QR`
 
-<a href="https://bit.ly/Millie-QR"><img title="MILLIE - MD" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+
+[Click Here To Scan QR](https://Millie-QR.up.railway.app)
+
+
 
 
 ### `⨷ DEPLOY`  
